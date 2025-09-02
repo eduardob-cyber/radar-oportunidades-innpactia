@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "name": "Ejemplo ONU (reemplazar por RSS real)",
+      "type": "rss",
+      "url": "https://example.org/un-agency/funding/rss"
+    },
+    {
+      "name": "Ejemplo Banco de Desarrollo (reemplazar por RSS real)",
+      "type": "rss",
+      "url": "https://example.org/devbank/opportunities/rss"
+    },
+    {
+      "name": "Ejemplo Unión Europea (reemplazar por RSS real)",
+      "type": "rss",
+      "url": "https://example.org/eu/funding-tenders/rss"
+    }
+  ]
+}
